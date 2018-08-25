@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ff409e0-989d-4c40-a692-76b45e00f3ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chippd.github.io-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/devicon-colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/devicon.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/devicon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/global_health.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/holler.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/kanban_app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/linkedin-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/main_profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/Slack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/angular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/cloudant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/firebase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/heroku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/ionic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/jquery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/node.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/pouch-grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/pouch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/techlogos/wordpress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thienchi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/sketch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tool-logos/sublime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/myScripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,10 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
+            <state relative-caret-position="94">
               <caret line="161" column="112" selection-start-line="161" selection-start-column="112" selection-end-line="161" selection-end-column="112" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -87,6 +31,15 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -115,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -144,16 +98,6 @@
             <path>
               <item name="porfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="porfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="porfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="porfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="porfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="porfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,25 +150,25 @@
       <option name="presentableId" value="Default" />
       <updated>1535192997708</updated>
       <workItem from="1535192998971" duration="3575000" />
-      <workItem from="1535198742321" duration="5667000" />
+      <workItem from="1535198742321" duration="5786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9242000" />
+    <option name="totallyTimeSpent" value="9361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1987315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1987315" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.17354196" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3200569" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,7 +255,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="94">
           <caret line="161" column="112" selection-start-line="161" selection-start-column="112" selection-end-line="161" selection-end-column="112" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -322,6 +266,13 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
